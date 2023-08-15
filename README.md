@@ -24,4 +24,4 @@
        printResult2(result) 兩骰 結果
        printResult3(result) 三骰 結果
 
-> 遊戲開始時，如金額不足，則跳回遊戲畫面。
+> 遊戲開始時，如金額不足，則跳回遊戲大廳。
